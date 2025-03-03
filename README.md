@@ -19,7 +19,6 @@ It allows users to **register, log in, and manage transactions** securely.
 1. Clone this repo:  
    ```bash
    git clone https://github.com/codewithnyk/E-Banking-Java-Internship.git
-   cd E-Banking-Java-Internship
 2. Import into Eclipse/IntelliJ as a Java Web Project.
 3. Configure Apache Tomcat.
 4. Setup MySQL/PostgreSQL DB (Run SQL script below).
