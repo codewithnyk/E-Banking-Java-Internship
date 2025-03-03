@@ -18,5 +18,5 @@ It allows users to **register, log in, and manage transactions** securely.
 ## 📂 Project Setup
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/E-Banking-Java-Internship.git
+   git clone https://github.com/codewithnyk/E-Banking-Java-Internship.git
    cd E-Banking-Java-Internship
